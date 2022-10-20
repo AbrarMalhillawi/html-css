@@ -1,0 +1,32 @@
+div  
+{
+border: 2px solid black;
+ background-color: aliceblue;
+}
+body {
+background-color: rgb(228, 216, 202);
+
+}
+#p_font
+{
+  color: rgb(172, 50, 162);
+}
+
+#badH1 
+{
+    border: dashed;
+}
+#dashed
+{
+   border:dashed red;
+
+}
+ 
+.A{
+background-color: rgb(233, 152, 86);
+
+}
+.B{
+
+  background-color: rgb(234, 223, 66);
+}
